@@ -34,7 +34,7 @@ funkcja `Result` powinna zwrócić wynik.
   int value = calc.Result();
 ```
 
-This should end with `value=288`.
+This should end with `value=288`. It's a old calculator: `12+12=24` ... `24*12=288`.
 
 ## Requirements
 
